@@ -1,4 +1,3 @@
-# fail2ban
-Lists of banned IPs
+# A list of IPs banned by fail2ban
 
-Lists of banned IPs (mainly Wordpress related and [Webexploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits))
+A list of IPs which were banned by fail2ban (mainly Wordpress related and [Webexploits](https://github.com/mitchellkrogza/Fail2Ban.WebExploits))
